@@ -1,7 +1,7 @@
 # WOSM mirror mount
 
-This mirror holder is used by most WOSMs. It is a plastic part that allows a one-time alignment of the excitation dichroic mirror and the camera port mirror (100% broadband).
-Adjustable-tension plastic springs hold the mirror in place.
+This mirror holder is used by most WOSMs. It is a plastic printed part that sits immediatly below the objective lens, inside the main aluminium block. Features a one-time alignment of the excitation dichroic mirror and the camera port mirror (100% broadband).
+Adjustable-tension plastic springs hold the mirrors in place.
 
 ## 3D printing recommendations:
 This part is designed with filament deposition 3D printing in mind. No printing support structures are necessary.
