@@ -7,7 +7,8 @@ Adjustable-tension plastic springs hold the mirrors in place.
 This part is designed with filament deposition 3D printing in mind. No printing support structures are necessary.
 PLA or ABS recommended. Z-step of 0.2mm or 0.1mm.
 
-## Post processing:
+### Post processing:
+
 If necessary clean up M3 and M4 threads with a tap. Take your time, going fast can overheat the plastic and kill the part.
 Wash and dry this part before putting mirrors.
 
